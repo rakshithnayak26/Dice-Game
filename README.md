@@ -8,3 +8,5 @@ Rules:
 3. Player can set final score in the text field, upon reaching that winner will be declared.
 4. Player can start new game by clicking new game button
 
+Play the game live : https://rakshithnayak26.github.io/Dice-Game/
+
